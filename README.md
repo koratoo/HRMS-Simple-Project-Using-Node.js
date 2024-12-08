@@ -26,4 +26,18 @@
 
 ## 📂 프로젝트 구조
 
-HRMS-Simple-Project-Using-Node.js/ │ ├── config/ │ └── database.js # 데이터베이스 설정 및 Sequelize 초기화 │ ├── models/ │ └── employee.js # Employee 테이블에 대한 Sequelize 모델 │ ├── routes/ │ └── employees.js # 직원 관리 RESTful API 라우터 │ ├── index.js # 애플리케이션 진입점 ├── package.json # 프로젝트 의존성 및 스크립트 └── README.md # 프로젝트 설명서
+HRMS-Simple-Project-Using-Node.js/
+│
+├── config/
+│   └── database.js           # 데이터베이스 설정 및 Sequelize 초기화
+│
+├── models/
+│   └── employee.js           # Employee 테이블에 대한 Sequelize 모델
+│
+├── routes/
+│   └── employees.js          # 직원 관리 RESTful API 라우터
+│
+├── index.js                  # 애플리케이션 진입점
+├── package.json              # 프로젝트 의존성 및 스크립트
+└── README.md                 # 프로젝트 설명서
+
