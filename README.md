@@ -1,4 +1,4 @@
-# HRMS 간단한 프로젝트 (Node.js)
+# 심플한 인사관리 시스템 (Node.js)
 
 **Node.js**, **Express.js**, **PostgreSQL**, **Sequelize ORM**을 
 사용하여 구축된 간단한 인사 관리 시스템(HRMS)입니다. 
