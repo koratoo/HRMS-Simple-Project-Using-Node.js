@@ -1,6 +1,6 @@
 # 심플한 인사관리 시스템 (Node.js)
-
-**Node.js**, **Express.js**, **PostgreSQL**, **Sequelize ORM**을 
+## 사용언어
+**Node.js**, **Express.js**, **PostgreSQL**, **Sequelize ORM**을 <br>
 사용하여 구축된 간단한 인사 관리 시스템(HRMS)입니다. 
 
 직원 정보를 추가, 조회, 수정, 삭제할 수 있는 RESTful API를 제공합니다.
@@ -57,16 +57,3 @@ HRMS-Simple-Project-Using-Node.js/
 | **PUT**      | `/:id`                | 특정 직원 정보 수정                | `{ "name": "이순신", "age": 35, "position": "팀장", "department": "IT" }`                                                |
 | **DELETE**   | `/:id`                | 특정 직원 삭제                     | N/A                                                                                                                      |
 
----
-
-### 🧪 사용 예제
-
-#### 1. 새로운 직원 추가
-**POST** `/api/employees`
-```json
-{
-  "name": "홍길동",
-  "age": 30,
-  "position": "개발자",
-  "department": "IT"
-}
