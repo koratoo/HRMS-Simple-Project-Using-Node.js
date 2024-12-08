@@ -40,7 +40,7 @@ HRMS-Simple-Project-Using-Node.js/
 ├── routes/
 │   └── employees.js          # 직원 관리 RESTful API 라우터
 │
-├── index.js                  # 애플리케이션 진입점
+├── app.js                    # 애플리케이션 진입점
 ├── package.json              # 프로젝트 의존성 및 스크립트
 └── README.md                 # 프로젝트 설명서
 ```
