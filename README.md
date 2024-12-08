@@ -2,7 +2,10 @@
 
 ## 사용언어
 
-**Node.js**, **Express.js**, **PostgreSQL**, **Sequelize ORM**을 <br>
+**Nodejs**<br>
+**Express.js** <br>
+**PostgreSQL**<br>
+**Sequelize ORM**을 <br>
 사용하여 구축된 간단한 인사 관리 시스템(HRMS)입니다.
 
 직원 정보를 추가, 조회, 수정, 삭제할 수 있는 RESTful API를 제공합니다.
